@@ -1,6 +1,4 @@
-# cheat-sheets
-
-# Cheat Sheet for Unix Commands
+# Unix Commands
 
 ### Basics ###
 Command | Description | Example
@@ -86,7 +84,7 @@ Command | Description | Example
 `grep -ri <string> <dir>` | Grep recursively (case-insensitive). | `$ grep -ri foo bar/`
 
 
-# Cheat Sheet for Git Commands
+# Git
 
 ### Create
 Command | Description
@@ -156,7 +154,7 @@ Command | Description
 `git reset <commit>` | Reset your HEAD pointer to a previous commit and preserve all changes as unstanged changes.
 `git reset --keep <commit>` | Reset your HEAD pointer to a previous commit and preserve uncommitted local changes.
 
-# Keyboard Shortcut Cheat Sheet for Xcode 
+# Xcode 
 
 ### Navigators
 Shortcut | Description
@@ -243,7 +241,7 @@ Shortcut | Description
 `⌘ arrow` | Rotate simulator left/right
 
 
-# Cheat Sheet for a Text Editor 
+# Text Editor 
 
 ### Vim 
 Command | Description
